@@ -1,0 +1,42 @@
+﻿@page
+@model GinasioIsla.Pages.Modalidades.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Modalidade[0].NomeModalidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Modalidade[0].HorasSemanais)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Modalidade) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomeModalidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HorasSemanais)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ModalidadeID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ModalidadeID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ModalidadeID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

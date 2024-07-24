@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GinasioIsla
+build_property.RootNamespace = GinasioIsla
+build_property.ProjectDir = /Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Alunos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWx1bm9zL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Alunos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWx1bm9zL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Alunos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWx1bm9zL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Alunos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWx1bm9zL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Alunos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWx1bm9zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Inscricoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5zY3JpY29lcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Inscricoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5zY3JpY29lcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Inscricoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5zY3JpY29lcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Inscricoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5zY3JpY29lcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Inscricoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5zY3JpY29lcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Modalidades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW9kYWxpZGFkZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Modalidades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW9kYWxpZGFkZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Modalidades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW9kYWxpZGFkZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Modalidades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW9kYWxpZGFkZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Modalidades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW9kYWxpZGFkZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lucasxavier/Downloads/GinasioIsla/GinasioIsla/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-k2gm7jasd3
